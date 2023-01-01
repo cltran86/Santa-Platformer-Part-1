@@ -1,2 +1,10 @@
-# Santa-Platformer-Part-1
-Santa platformer tutorial from youtube
+# Santa Platformer Tutorial Source Part 1
+A basic platformer that includes running and jumping.
+This is the code for [Part 1 of the Santa Platfomer tutorial](https://youtu.be/dSVxD8AKYP4).
+
+# Install
+Pull and open in Unity Hub
+This uses Unity 2021.3.14f1, but any version of unity 2018 and up should work.
+
+# License
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
